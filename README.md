@@ -8,4 +8,4 @@ just press [this](https://github.com/Shadowniko1/Clock/releases/download/Clock/c
 or press on realeses or [here](https://github.com/Shadowniko1/Clock/releases) for the .zip file 
 
 ### Source code
-the source code is in the .zip file
+the source code is in the .zip file and at the top of the readme
